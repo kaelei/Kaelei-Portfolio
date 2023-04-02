@@ -1,0 +1,20 @@
+{
+  "name": "kaelei-portfolio",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "home.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaelei/Kaelei-Portfolio.git"
+  },
+  "author": "kaelei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaelei/Kaelei-Portfolio/issues"
+  },
+  "homepage": "https://github.com/kaelei/Kaelei-Portfolio#readme"
+}
